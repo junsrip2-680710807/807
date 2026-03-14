@@ -8,5 +8,19 @@
 }
 
 .img {
-    margin-right: 10px;
+    margin-bottom: auto;
+}
+
+.img2 {
+    margin-inline-start: auto;
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+}
+
+.row img {
+    width: 40%;
+    border-radius: 8px;
 }
