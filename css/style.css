@@ -1,9 +1,12 @@
-body {
-    background: wheat;
-    color: black;
+.head {
+    text-align: center;
 }
 
 .header{
     text-align: right;
     margin-right: auto;
+}
+
+.img {
+    margin-right: 10px;
 }
