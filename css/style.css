@@ -1,0 +1,9 @@
+body {
+    background: wheat;
+    color: black;
+}
+
+.header{
+    text-align: right;
+    margin-right: auto;
+}
