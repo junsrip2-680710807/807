@@ -9,10 +9,7 @@
 
 .img {
     margin-bottom: auto;
-}
-
-.img2 {
-    margin-inline-start: auto;
+    border-radius: 10px;
 }
 
 .row {
@@ -22,5 +19,6 @@
 
 .row img {
     width: 40%;
-    border-radius: 8px;
+    border-radius: 10px;
+    border-color: black;
 }
