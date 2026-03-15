@@ -22,15 +22,13 @@ body {
     font-size: 16px;
     line-height: 1.8;
 }
-.head {
-    font-family: "Kanit", sans-serif;
-    text-align: center;
-}
 
-.header{
+.banner h1 {
+    color: #022d28;
     font-family: "Kanit", sans-serif;
-    text-align: right;
-    margin-right: auto;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.8;
 }
 
 .img {
