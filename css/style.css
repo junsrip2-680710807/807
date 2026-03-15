@@ -6,7 +6,7 @@ body {
     font-size: 16px;
     line-height: 1.8;
     color: #374151;
-    background-color: #40826d;
+    background: radial-gradient(circle, #4ade80, #40826d);
 }
 
 .navbar {
@@ -24,26 +24,26 @@ body {
 }
 
 .banner h1 {
-    color: #022d28;
+    color: black;
     font-family: "Kanit", sans-serif;
     font-weight: 600;
     font-style: normal;
     line-height: 1.8;
-}
-
-.img {
-    width: auto;
     margin-bottom: auto;
-    border-radius: 10px;
+    text-align: center;
 }
 
-.row {
+
+.text-box {
     display: flex;
-    gap: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
 }
 
-.row img {
-    width: 40%;
-    border-radius: 10px;
-    border-color: black;
+.host:hover {
+    transform: scale(1.02) translate(0);
+    box-shadow: 0 4px 20px rgba(6, 99, 59, 0.227);
+    border: #074b36;
 }
