@@ -42,6 +42,17 @@ body {
     color: white;
 }
 
+.toc-card {
+    background: #ffffff;
+    border-radius: 16px;
+    border: 1px solid #d8ffe4;
+    box-shadow: 0 4px 20px rgba(57, 57, 57, 0.6);
+    padding-top: -30px;
+    position: relative;
+    margin-left: 50;
+    margin-right: 50;
+}
+
 .host:hover {
     transform: scale(1.02) translate(0);
     box-shadow: 0 4px 20px rgba(6, 99, 59, 0.227);
