@@ -10,7 +10,7 @@ body {
 }
 
 div {
-    display: block;
+    display: flex;
     unicode-bidi: isolate;
     justify-content: space-around;
 }
@@ -55,6 +55,8 @@ div {
     box-shadow: 0 4px 20px rgba(57, 57, 57, 0.6);
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
     position: relative;
     margin-left: 50;
     margin-right: 50;
